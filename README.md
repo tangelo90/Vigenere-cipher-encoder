@@ -3,4 +3,4 @@ Vigenère cipher encoding for plain text using an initialization vector and keyw
 
 Compile with GCC
 
-Run with: ./<exe> <filename> <password> <vector>
+Run with: ./exe filename password vector
